@@ -1,0 +1,12 @@
+channels:
+  - conda-forge
+dependencies:
+  - pip
+  - nltk 
+  - gensim 
+  - bokeh
+  - jupyter
+  - sklearn
+  - matplotlib
+  - pip
+    - -r requirements.txt
