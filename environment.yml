@@ -6,7 +6,8 @@ dependencies:
   - gensim 
   - bokeh
   - jupyter
-  - sklearn
+  - scikit-learn
   - matplotlib
-  - pip
+  - seaborn
+  - pip:
     - -r requirements.txt
