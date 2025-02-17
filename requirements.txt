@@ -1,2 +1,9 @@
 torch
 subword-nmt
+transformers
+datasets
+accelerate
+deepspeed
+protobuf
+tiktoken
+sentencepiece

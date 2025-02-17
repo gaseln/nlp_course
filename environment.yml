@@ -1,5 +1,6 @@
 channels:
   - conda-forge
+  - nvidia
 dependencies:
   - pip
   - nltk 
@@ -9,5 +10,6 @@ dependencies:
   - scikit-learn
   - matplotlib
   - seaborn
+  - cuda=12.4
   - pip:
     - -r requirements.txt
