@@ -11,5 +11,6 @@ dependencies:
   - matplotlib
   - seaborn
   - cuda=12.4
+  - bitsandbytes
   - pip:
     - -r requirements.txt

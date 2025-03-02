@@ -7,3 +7,5 @@ deepspeed
 protobuf
 tiktoken
 sentencepiece
+optimum
+auto-gptq
